@@ -1,7 +1,5 @@
-<h1 align="center">Introducing Myself</h1>
-
 <p align="center">
-  <img src="./github-profile-banner.png"
+  <img src="./profile_cover_pic.png"
        alt="Michael Gallardo — Data Scientist and Analyst"
        width="100%">
 </p>
