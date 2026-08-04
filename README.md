@@ -3,6 +3,7 @@
        alt="Michael Gallardo — Data Scientist and Analyst"
        width="100%">
 </p>
+
 # 👨‍💻 Introducing Myself
 
 Hello, I'm **Michael Gallardo**, a Data Scientist and Analyst with interdisciplinary training in machine learning, NLP, statistical analysis and biological sciences.
