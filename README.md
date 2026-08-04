@@ -1,3 +1,10 @@
+<h1 align="center">Introducing Myself</h1>
+
+<p align="center">
+  <img src="./github-profile-banner.png"
+       alt="Michael Gallardo — Data Scientist and Analyst"
+       width="100%">
+</p>
 # 👨‍💻 Introducing Myself
 
 Hello, I'm **Michael Gallardo**, a Data Scientist and Analyst with interdisciplinary training in machine learning, NLP, statistical analysis and biological sciences.
